@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm ZHANJINGCHUN</h1>
-<h3 align="center">A PHD Student in UTM</h3>
+<h1 align="center">Hi 👋, I'm JINGCHUN</h1>
+<h3 align="center">I am in UTM</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
